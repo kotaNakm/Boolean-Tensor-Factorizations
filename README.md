@@ -1,2 +1,2 @@
-# Boolean_Tensor_Factorizations
+# Boolean-Tensor-Factorizations
 Personal use
